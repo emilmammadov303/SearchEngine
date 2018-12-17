@@ -1,0 +1,1 @@
+Resimlerdeki eklentilerin Eclipse'de kurulu olmasi gerekiyor
